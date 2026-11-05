@@ -1,5 +1,17 @@
 [
   {
+    "id": "p1793842646253",
+    "nombre": "Remera Glich skull",
+    "tipo": "Remera",
+    "tag": "estampada",
+    "precio": 25000,
+    "desc": "Negro acid wash, estampado frente y dorso, talle M",
+    "estado": "disponible",
+    "badge": "En stock",
+    "alta": "2026-11-05",
+    "foto": "assets/remera-glich-skull-p1793842646253.jpg"
+  },
+  {
     "id": "p1",
     "nombre": "Pantalon Windows XP",
     "tipo": "Pantalon",
