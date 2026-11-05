@@ -1,0 +1,90 @@
+[
+  {
+    "id": "p1",
+    "nombre": "Pantalon Windows XP",
+    "tipo": "Pantalon",
+    "tag": "pantalon",
+    "precio": 45000,
+    "desc": "Negro, calce oversize. Grafico del clasico error de ventanas y puntero pixelado en la pierna izquierda.",
+    "foto": "assets/pantalon-windows-xp.jpg",
+    "estado": "disponible",
+    "alta": "2026-11-05"
+  },
+  {
+    "id": "p2",
+    "nombre": "Remera Souls Not Faces",
+    "tipo": "Remera",
+    "tag": "estampada",
+    "precio": 30000,
+    "desc": "Acid wash negro. Frente con tira de fotogramas y frase; espalda con ilustracion manga y flores.",
+    "foto": "assets/remera-souls-not-faces.jpg",
+    "estado": "disponible",
+    "alta": "2026-11-05"
+  },
+  {
+    "id": "p3",
+    "nombre": "Remera Saint",
+    "tipo": "Remera",
+    "tag": "estampada",
+    "precio": 30000,
+    "desc": "Base blanca. Querubines apilados y cruz gotica al frente; angel con arco y flores negras atras.",
+    "foto": "assets/remera-saint.jpg",
+    "estado": "disponible",
+    "alta": "2026-11-05"
+  },
+  {
+    "id": "p4",
+    "nombre": "Remera Ah Shit Oversize",
+    "tipo": "Remera",
+    "tag": "oversize",
+    "precio": 30000,
+    "desc": "Oversize blanca. Frase estilo GTA al frente y collage San Andreas en el dorso.",
+    "foto": "assets/remera-ah-shit-oversize.jpg",
+    "estado": "disponible",
+    "alta": "2026-11-05"
+  },
+  {
+    "id": "p5",
+    "nombre": "Remera Cruz Gotica",
+    "tipo": "Remera",
+    "tag": "estampada",
+    "precio": 30000,
+    "desc": "Azul marino. Diseno vertical en el pecho con cruz y filigranas goticas en blanco.",
+    "foto": "assets/remera-cruz-gotica.jpg",
+    "estado": "disponible",
+    "alta": "2026-11-05"
+  },
+  {
+    "id": "p6",
+    "nombre": "Remera Forever Young",
+    "tipo": "Remera",
+    "tag": "estampada",
+    "precio": 30000,
+    "desc": "Base jaspeada. Busto clasico y caligrafia gotica; ojo radiante y flores en la espalda.",
+    "foto": "assets/remera-forever-young.jpg",
+    "estado": "disponible",
+    "alta": "2026-11-05"
+  },
+  {
+    "id": "p7",
+    "nombre": "Remera Candlemass",
+    "tipo": "Remera",
+    "tag": "estampada",
+    "precio": 30000,
+    "desc": "Acid wash negro. Logo gotico de la banda al frente y calavera con huesos en la espalda.",
+    "foto": "assets/remera-candlemass.jpg",
+    "estado": "disponible",
+    "alta": "2026-11-05"
+  },
+  {
+    "id": "p8",
+    "nombre": "Remera Forever Young Coleccion",
+    "tipo": "Remera",
+    "tag": "estampada",
+    "precio": 30000,
+    "desc": "Variantes de color de la linea Forever Young, presentadas como pieza de catalogo.",
+    "foto": "assets/catalogo-forever-young.jpg",
+    "estado": "disponible",
+    "alta": "2026-11-05"
+  }
+]
