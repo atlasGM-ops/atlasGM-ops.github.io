@@ -1,5 +1,17 @@
 [
   {
+    "id": "p1794017838159",
+    "nombre": "Remera personalizado estetico",
+    "tipo": "Remera",
+    "tag": "estampada",
+    "precio": 30000,
+    "desc": "A pedido, personalizado para parejas, individuales, piyamas.\ncolores vivos de calidad",
+    "estado": "disponible",
+    "badge": "En stock",
+    "alta": "2026-11-07",
+    "foto": "assets/remera-personalizado-estetico-p1794017838159.jpg"
+  },
+  {
     "id": "p1794017185878",
     "nombre": "Ropa Laboral personalizada",
     "tipo": "Otro",
